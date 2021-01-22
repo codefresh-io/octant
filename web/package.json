@@ -27,7 +27,7 @@
     "@angular/platform-browser": "~8.2.6",
     "@angular/platform-browser-dynamic": "~8.2.6",
     "@angular/router": "~8.2.6",
-    "@clr/angular": "^2.2.0",
+    "@clr/angular": "^2.4.10",
     "@clr/icons": "^2.2.0",
     "@clr/ui": "^2.2.0",
     "@ng-select/ng-select": "^2.20.0",
