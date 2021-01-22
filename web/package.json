@@ -29,7 +29,7 @@
     "@angular/router": "~8.2.6",
     "@clr/angular": "^2.2.0",
     "@clr/icons": "^2.2.0",
-    "@clr/ui": "^2.2.0",
+    "@clr/ui": "^2.4.10",
     "@ng-select/ng-select": "^2.20.0",
     "@types/cytoscape": "^3.8.2",
     "@webcomponents/custom-elements": "^1.0.0",
